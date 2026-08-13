@@ -1,0 +1,242 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Readium Mobile",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Swift toolkit",
+              "description": "for iOS, iPadOS and macOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Swift",
+                "last_commit": "2026-08-12T09:22:48Z",
+                "owner": "readium",
+                "repo": "swift-toolkit",
+                "stars": 537
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin toolkit",
+              "description": "for Android and Chrome OS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2026-08-03T17:51:24Z",
+                "owner": "readium",
+                "repo": "kotlin-toolkit",
+                "stars": 367
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Readium Web",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TS toolkit",
+              "description": "primarily used for client-side applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T16:04:30Z",
+                "owner": "readium",
+                "repo": "ts-toolkit",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go toolkit",
+              "description": "primarily used for server-side applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-01T10:09:11Z",
+                "owner": "readium",
+                "repo": "go-toolkit",
+                "stars": 68
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Toolkits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Thorium Desktop",
+          "description": "A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:24:29Z",
+            "owner": "edrlab",
+            "repo": "thorium-reader",
+            "stars": 2821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thorium Web",
+          "description": "A Web-Reader for reading EPUB on the Web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T07:58:01Z",
+            "owner": "edrlab",
+            "repo": "thorium-web",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readium CLI",
+          "description": "A multi-command utility for interacting with EPUB files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T09:22:00Z",
+            "owner": "readium",
+            "repo": "cli",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Open-source applications"
+    },
+    {
+      "description": "Readium Mobile is a toolkit for ebooks, PDF documents, audiobooks and comics written in Swift & Kotlin. It targets primarily Android, iOS and iPadOS but can also be useful to build macOS and Chrome OS apps. With hundreds of apps using Readium Mobile and an open license (BSD-3), it's impossible to track down every single app built on top of it. This list is meant to identify some of them, to illustrate its adoption around the world.",
+      "items": [],
+      "title": "Apps based on Readium Mobile"
+    },
+    {
+      "description": "In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Epub.js",
+          "description": "An ebook viewer written in JS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-24T04:19:58Z",
+            "owner": "futurepress",
+            "repo": "epub.js",
+            "stars": 6941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vivliostyle",
+          "description": "A document and publication viewer written in JS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:38:29Z",
+            "owner": "vivliostyle",
+            "repo": "vivliostyle.js",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xbreader",
+          "description": "A manga viewer written in TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-12T04:49:19Z",
+            "owner": "chocolatkey",
+            "repo": "xbreader",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Compatible with Readium Web Publications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Native Readium",
+          "description": "A React Native wrapper for Readium Mobile & Web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T17:19:36Z",
+            "owner": "5-stones",
+            "repo": "react-native-readium",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iridium",
+          "description": "A Flutter port of Readium Mobile",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-25T07:54:33Z",
+            "owner": "Mantano",
+            "repo": "iridium",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Readium",
+          "description": "A Flutter wrapper for Readium Mobile and Web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T15:44:25Z",
+            "owner": "Notalib",
+            "repo": "flutter_readium",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Other toolkits related to Readium"
+    },
+    {
+      "description": "To the extent possible under law, all contributors waive all copyright and related neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:37.719Z",
+    "original_repository": "readium/awesome-readium",
+    "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
+    "enhanced_repository": "enhansome/enhansome-readium",
+    "enhanced_repository_description": null,
+    "title": "Awesome Readium with stars"
+  }
+}
