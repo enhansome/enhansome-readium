@@ -29,8 +29,8 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 ## Open-source applications
 
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,820 | 🐛 164 | 🌐 TypeScript | 📅 2026-08-14 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
-* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 106 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-07 - A Web-Reader for reading EPUB on the Web
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,824 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-16 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 107 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-07 - A Web-Reader for reading EPUB on the Web
 * [Readium CLI](https://github.com/readium/cli) ⭐ 25 | 🐛 12 | 🌐 Go | 📅 2026-08-01 - A multi-command utility for interacting with EPUB files
 
 ## Specifications
@@ -170,8 +170,8 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 
 In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:
 
-* [Epub.js](https://github.com/futurepress/epub.js/) ⭐ 6,941 | 🐛 517 | 🌐 JavaScript | 📅 2026-03-24 - An ebook viewer written in JS
-* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) ⭐ 781 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-15 - A document and publication viewer written in JS
+* [Epub.js](https://github.com/futurepress/epub.js/) ⭐ 6,942 | 🐛 517 | 🌐 JavaScript | 📅 2026-03-24 - An ebook viewer written in JS
+* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) ⭐ 781 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-16 - A document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) ⭐ 30 | 🐛 11 | 🌐 TypeScript | 📅 2024-05-12 - A manga viewer written in TypeScript
 
 ## Other toolkits related to Readium
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:01:59Z",
+            "last_commit": "2026-08-16T19:09:05Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2820
+            "stars": 2824
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-07T07:58:01Z",
             "owner": "edrlab",
             "repo": "thorium-web",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-03-24T04:19:58Z",
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6941
+            "stars": 6942
           }
         },
         {
@@ -154,7 +154,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T08:47:21Z",
+            "last_commit": "2026-08-16T03:00:27Z",
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 781
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:43:27.294Z",
+    "last_updated": "2026-08-16T22:42:59.794Z",
     "original_repository": "readium/awesome-readium",
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
     "enhanced_repository": "enhansome/enhansome-readium",
