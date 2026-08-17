@@ -16,10 +16,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Swift",
-                "last_commit": "2026-08-14T17:44:32Z",
+                "last_commit": "2026-08-17T16:09:20Z",
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 539
+                "stars": 540
               }
             },
             {
@@ -65,7 +65,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-01T10:09:11Z",
+                "last_commit": "2026-08-17T09:30:28Z",
                 "owner": "readium",
                 "repo": "go-toolkit",
                 "stars": 68
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T19:09:05Z",
+            "last_commit": "2026-08-17T19:17:24Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2824
+            "stars": 2828
           }
         },
         {
@@ -154,10 +154,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:00:27Z",
+            "last_commit": "2026-08-17T05:32:53Z",
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
-            "stars": 781
+            "stars": 780
           }
         },
         {
@@ -188,7 +188,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T19:22:44Z",
+            "last_commit": "2026-08-17T18:17:47Z",
             "owner": "5-stones",
             "repo": "react-native-readium",
             "stars": 170
@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-14T12:31:31Z",
+            "last_commit": "2026-08-17T16:04:10Z",
             "owner": "Notalib",
             "repo": "flutter_readium",
             "stars": 30
@@ -232,7 +232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:42:59.794Z",
+    "last_updated": "2026-08-17T22:46:04.538Z",
     "original_repository": "readium/awesome-readium",
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
     "enhanced_repository": "enhansome/enhansome-readium",
