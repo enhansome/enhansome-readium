@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 423789305,
                 "language": "Swift",
                 "last_commit": "2026-08-18T19:09:17Z",
                 "owner": "readium",
@@ -29,11 +30,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 409576806,
                 "language": "Kotlin",
                 "last_commit": "2026-08-03T17:51:24Z",
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
-                "stars": 369
+                "stars": 370
               }
             }
           ]
@@ -50,6 +52,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 220052920,
                 "language": "TypeScript",
                 "last_commit": "2026-08-03T16:04:30Z",
                 "owner": "readium",
@@ -64,6 +67,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 70692413,
                 "language": "Go",
                 "last_commit": "2026-08-17T09:30:28Z",
                 "owner": "readium",
@@ -77,7 +81,7 @@
       "title": "Toolkits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -86,8 +90,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85566485,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T07:19:36Z",
+            "last_commit": "2026-08-19T10:27:56Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
             "stars": 2829
@@ -100,6 +105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817656901,
             "language": "TypeScript",
             "last_commit": "2026-08-07T07:58:01Z",
             "owner": "edrlab",
@@ -114,8 +120,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 958680199,
             "language": "Go",
-            "last_commit": "2026-08-01T09:22:00Z",
+            "last_commit": "2026-08-19T04:09:40Z",
             "owner": "readium",
             "repo": "cli",
             "stars": 25
@@ -123,11 +130,6 @@
         }
       ],
       "title": "Open-source applications"
-    },
-    {
-      "description": "Readium Mobile is a toolkit for ebooks, PDF documents, audiobooks and comics written in Swift & Kotlin. It targets primarily Android, iOS and iPadOS but can also be useful to build macOS and Chrome OS apps. With hundreds of apps using Readium Mobile and an open license (BSD-3), it's impossible to track down every single app built on top of it. This list is meant to identify some of them, to illustrate its adoption around the world.",
-      "items": [],
-      "title": "Apps based on Readium Mobile"
     },
     {
       "description": "In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:",
@@ -139,11 +141,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6418762,
             "language": "JavaScript",
             "last_commit": "2026-03-24T04:19:58Z",
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6943
+            "stars": 6945
           }
         },
         {
@@ -153,8 +156,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33099290,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T05:32:53Z",
+            "last_commit": "2026-08-19T07:41:56Z",
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 780
@@ -167,6 +171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141866544,
             "language": "TypeScript",
             "last_commit": "2024-05-12T04:49:19Z",
             "owner": "chocolatkey",
@@ -178,7 +183,7 @@
       "title": "Compatible with Readium Web Publications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -187,8 +192,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468831170,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:33:20Z",
+            "last_commit": "2026-08-19T12:22:51Z",
             "owner": "5-stones",
             "repo": "react-native-readium",
             "stars": 170
@@ -201,6 +207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404282279,
             "language": "Dart",
             "last_commit": "2026-07-25T07:54:33Z",
             "owner": "Mantano",
@@ -215,25 +222,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 784184275,
             "language": "Dart",
             "last_commit": "2026-08-18T06:15:01Z",
             "owner": "Notalib",
             "repo": "flutter_readium",
-            "stars": 30
+            "stars": 31
           }
         }
       ],
       "title": "Other toolkits related to Readium"
-    },
-    {
-      "description": "To the extent possible under law, all contributors waive all copyright and related neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:46:19.182Z",
+    "last_updated": "2026-08-19T12:51:25.738Z",
     "original_repository": "readium/awesome-readium",
+    "original_repository_id": 186126317,
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
     "enhanced_repository": "enhansome/enhansome-readium",
     "enhanced_repository_description": null,
