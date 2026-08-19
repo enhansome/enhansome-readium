@@ -95,7 +95,7 @@
             "last_commit": "2026-08-19T10:27:56Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2829
+            "stars": 2830
           }
         },
         {
@@ -193,8 +193,8 @@
           "repo_info": {
             "archived": false,
             "id": 468831170,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T12:22:51Z",
+            "language": "HTML",
+            "last_commit": "2026-08-19T18:12:10Z",
             "owner": "5-stones",
             "repo": "react-native-readium",
             "stars": 170
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:25.738Z",
+    "last_updated": "2026-08-19T22:46:53.256Z",
     "original_repository": "readium/awesome-readium",
     "original_repository_id": 186126317,
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
