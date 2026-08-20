@@ -57,7 +57,7 @@
                 "last_commit": "2026-08-03T16:04:30Z",
                 "owner": "readium",
                 "repo": "ts-toolkit",
-                "stars": 149
+                "stars": 148
               }
             },
             {
@@ -92,7 +92,7 @@
             "archived": false,
             "id": 85566485,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:27:56Z",
+            "last_commit": "2026-08-20T22:41:29Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
             "stars": 2830
@@ -158,7 +158,7 @@
             "archived": false,
             "id": 33099290,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:41:56Z",
+            "last_commit": "2026-08-20T22:40:13Z",
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 780
@@ -224,7 +224,7 @@
             "archived": false,
             "id": 784184275,
             "language": "Dart",
-            "last_commit": "2026-08-18T06:15:01Z",
+            "last_commit": "2026-08-20T09:53:04Z",
             "owner": "Notalib",
             "repo": "flutter_readium",
             "stars": 31
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:46:53.256Z",
+    "last_updated": "2026-08-20T22:50:33.523Z",
     "original_repository": "readium/awesome-readium",
     "original_repository_id": 186126317,
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
