@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-18T19:09:17Z",
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 542
+                "stars": 543
               }
             },
             {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-22T14:10:42Z",
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
-                "stars": 373
+                "stars": 374
               }
             }
           ]
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-21T16:04:26Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2831
+            "stars": 2830
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-03-24T04:19:58Z",
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6947
+            "stars": 6948
           }
         },
         {
@@ -158,7 +158,7 @@
             "archived": false,
             "id": 33099290,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T12:43:10Z",
+            "last_commit": "2026-08-23T13:56:11Z",
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 780
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:44:03.250Z",
+    "last_updated": "2026-08-23T22:43:49.752Z",
     "original_repository": "readium/awesome-readium",
     "original_repository_id": 186126317,
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
