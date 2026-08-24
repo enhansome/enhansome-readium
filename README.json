@@ -32,10 +32,10 @@
                 "archived": false,
                 "id": 409576806,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T14:10:42Z",
+                "last_commit": "2026-08-24T20:02:51Z",
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
-                "stars": 374
+                "stars": 375
               }
             }
           ]
@@ -92,7 +92,7 @@
             "archived": false,
             "id": 85566485,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T08:55:16Z",
+            "last_commit": "2026-08-24T15:50:44Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
             "stars": 2830
@@ -224,10 +224,10 @@
             "archived": false,
             "id": 784184275,
             "language": "Dart",
-            "last_commit": "2026-08-21T10:08:00Z",
+            "last_commit": "2026-08-24T21:08:12Z",
             "owner": "Notalib",
             "repo": "flutter_readium",
-            "stars": 31
+            "stars": 32
           }
         }
       ],
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:41.746Z",
+    "last_updated": "2026-08-24T22:49:19.860Z",
     "original_repository": "readium/awesome-readium",
     "original_repository_id": 186126317,
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
