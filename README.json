@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-26T13:46:46Z",
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 544
+                "stars": 545
               }
             },
             {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-26T19:33:58Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2832
+            "stars": 2833
           }
         },
         {
@@ -158,10 +158,10 @@
             "archived": false,
             "id": 33099290,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:43:26Z",
+            "last_commit": "2026-08-27T07:26:43Z",
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
-            "stars": 780
+            "stars": 781
           }
         },
         {
@@ -235,9 +235,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:23:46.913Z",
-    "original_repository": "readium/awesome-readium",
-    "original_repository_id": 186126317,
+    "last_updated": "2026-08-27T11:59:52.686Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 186126317,
+      "language": null,
+      "last_commit": "2026-07-20T15:21:09Z",
+      "owner": "readium",
+      "repo": "awesome-readium",
+      "stars": 280
+    },
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
     "enhanced_repository": "enhansome/enhansome-readium",
     "enhanced_repository_description": null,
