@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 423789305,
                 "language": "Swift",
-                "last_commit": "2026-08-18T19:09:17Z",
+                "last_commit": "2026-08-26T13:46:46Z",
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 543
+                "stars": 544
               }
             },
             {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-25T12:35:59Z",
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
-                "stars": 377
+                "stars": 378
               }
             }
           ]
@@ -92,10 +92,10 @@
             "archived": false,
             "id": 85566485,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T18:31:23Z",
+            "last_commit": "2026-08-26T19:33:58Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2831
+            "stars": 2832
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2026-08-24T03:43:26Z",
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
-            "stars": 779
+            "stars": 780
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:50:57.557Z",
+    "last_updated": "2026-08-27T03:23:46.913Z",
     "original_repository": "readium/awesome-readium",
     "original_repository_id": 186126317,
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
