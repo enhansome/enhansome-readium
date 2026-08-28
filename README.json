@@ -20,8 +20,9 @@
                 "last_commit": "2026-08-26T13:46:46Z",
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 545
-              }
+                "stars": 546
+              },
+              "first_seen": "2026-08-28T06:11:37.869Z"
             },
             {
               "node_type": "item",
@@ -35,8 +36,9 @@
                 "last_commit": "2026-08-25T12:35:59Z",
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
-                "stars": 378
-              }
+                "stars": 379
+              },
+              "first_seen": "2026-08-28T06:11:37.869Z"
             }
           ]
         },
@@ -58,7 +60,8 @@
                 "owner": "readium",
                 "repo": "ts-toolkit",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T06:11:37.869Z"
             },
             {
               "node_type": "item",
@@ -73,7 +76,8 @@
                 "owner": "readium",
                 "repo": "go-toolkit",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T06:11:37.869Z"
             }
           ]
         }
@@ -92,11 +96,12 @@
             "archived": false,
             "id": 85566485,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:33:58Z",
+            "last_commit": "2026-08-28T00:29:44Z",
             "owner": "edrlab",
             "repo": "thorium-reader",
             "stars": 2833
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "edrlab",
             "repo": "thorium-web",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         },
         {
           "node_type": "item",
@@ -126,7 +132,8 @@
             "owner": "readium",
             "repo": "cli",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         }
       ],
       "title": "Open-source applications"
@@ -147,7 +154,8 @@
             "owner": "futurepress",
             "repo": "epub.js",
             "stars": 6950
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         },
         {
           "node_type": "item",
@@ -162,7 +170,8 @@
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 781
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         },
         {
           "node_type": "item",
@@ -177,7 +186,8 @@
             "owner": "chocolatkey",
             "repo": "xbreader",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         }
       ],
       "title": "Compatible with Readium Web Publications"
@@ -198,7 +208,8 @@
             "owner": "5-stones",
             "repo": "react-native-readium",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         },
         {
           "node_type": "item",
@@ -213,7 +224,8 @@
             "owner": "Mantano",
             "repo": "iridium",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         },
         {
           "node_type": "item",
@@ -224,18 +236,19 @@
             "archived": false,
             "id": 784184275,
             "language": "Dart",
-            "last_commit": "2026-08-25T13:25:23Z",
+            "last_commit": "2026-08-27T22:56:57Z",
             "owner": "Notalib",
             "repo": "flutter_readium",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T06:11:37.869Z"
         }
       ],
       "title": "Other toolkits related to Readium"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:52.686Z",
+    "last_updated": "2026-08-28T06:11:37.869Z",
     "original_repository_info": {
       "archived": false,
       "id": 186126317,
