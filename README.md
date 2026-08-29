@@ -21,7 +21,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 ## Toolkits
 
 * [Readium Mobile](https://readium.org/mobile)
-  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 546 | 🐛 59 | 🌐 Swift | 📅 2026-08-26 for iOS, iPadOS and macOS
+  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 547 | 🐛 59 | 🌐 Swift | 📅 2026-08-28 for iOS, iPadOS and macOS
   * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 379 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-25 for Android and Chrome OS
 * [Readium Web](https://readium.org/web)
   * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 148 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-03 primarily used for client-side applications
@@ -29,8 +29,8 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 ## Open-source applications
 
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,833 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-28 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
-* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 107 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-24 - A Web-Reader for reading EPUB on the Web
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,838 | 🐛 173 | 🌐 TypeScript | 📅 2026-08-28 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 107 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-28 - A Web-Reader for reading EPUB on the Web
 * [Readium CLI](https://github.com/readium/cli) ⭐ 25 | 🐛 13 | 🌐 Go | 📅 2026-08-19 - A multi-command utility for interacting with EPUB files
 
 ## Specifications
@@ -170,8 +170,8 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 
 In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:
 
-* [Epub.js](https://github.com/futurepress/epub.js/) ⭐ 6,950 | 🐛 517 | 🌐 JavaScript | 📅 2026-03-24 - An ebook viewer written in JS
-* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) ⭐ 781 | 🐛 124 | 🌐 TypeScript | 📅 2026-08-27 - A document and publication viewer written in JS
+* [Epub.js](https://github.com/futurepress/epub.js/) ⭐ 6,951 | 🐛 517 | 🌐 JavaScript | 📅 2026-03-24 - An ebook viewer written in JS
+* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) ⭐ 782 | 🐛 124 | 🌐 TypeScript | 📅 2026-08-27 - A document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) ⭐ 30 | 🐛 11 | 🌐 TypeScript | 📅 2024-05-12 - A manga viewer written in TypeScript
 
 ## Other toolkits related to Readium
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

@@ -15,12 +15,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for ebooks, audiobooks and comics written in Swift",
+                "homepage": "https://readium.org/swift-toolkit",
                 "id": 423789305,
                 "language": "Swift",
-                "last_commit": "2026-08-26T13:46:46Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T10:13:43Z",
+                "open_issues": 59,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 546
+                "stars": 547,
+                "topics": [
+                  "audiobook",
+                  "audiobook-player",
+                  "cbz",
+                  "ebook-reader",
+                  "epub",
+                  "ios",
+                  "opds",
+                  "opds-parser",
+                  "pdf",
+                  "pdf-viewer",
+                  "reader",
+                  "readium",
+                  "readium-lcp",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T06:11:37.869Z"
             },
@@ -31,12 +51,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for ebooks, audiobooks and comics written in Kotlin",
+                "homepage": "https://readium.org/kotlin-toolkit",
                 "id": 409576806,
                 "language": "Kotlin",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T12:35:59Z",
+                "open_issues": 62,
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
-                "stars": 379
+                "stars": 379,
+                "topics": [
+                  "android",
+                  "audiobook",
+                  "audiobook-player",
+                  "cbz",
+                  "ebook-reader",
+                  "epub",
+                  "kotlin",
+                  "opds",
+                  "opds-parser",
+                  "pdf",
+                  "pdf-viewer",
+                  "reader",
+                  "readium",
+                  "readium-lcp"
+                ]
               },
               "first_seen": "2026-08-28T06:11:37.869Z"
             }
@@ -54,12 +94,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for ebooks, audiobooks and comics written in Typescript",
+                "homepage": null,
                 "id": 220052920,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-03T16:04:30Z",
+                "open_issues": 61,
                 "owner": "readium",
                 "repo": "ts-toolkit",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "audiobooks",
+                  "cbr",
+                  "cbz",
+                  "ebook",
+                  "ebook-reader",
+                  "ebooks",
+                  "epub",
+                  "reading",
+                  "readium",
+                  "typescript",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T06:11:37.869Z"
             },
@@ -70,12 +127,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛠 A toolkit for ebooks, audiobooks and comics written in Go",
+                "homepage": "https://readium.org/web",
                 "id": 70692413,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-17T09:30:28Z",
+                "open_issues": 11,
                 "owner": "readium",
                 "repo": "go-toolkit",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "accessibility",
+                  "cbz",
+                  "epub",
+                  "epub-parser",
+                  "golang",
+                  "readium"
+                ]
               },
               "first_seen": "2026-08-28T06:11:37.869Z"
             }
@@ -94,12 +163,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross platform desktop reading app, based on the Readium Desktop toolkit",
+            "homepage": "https://www.edrlab.org/software/thorium-reader/",
             "id": 85566485,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:29:44Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T14:31:16Z",
+            "open_issues": 173,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2833
+            "stars": 2838,
+            "topics": [
+              "electron",
+              "epub",
+              "epub-reader",
+              "epub3",
+              "lcp",
+              "opds",
+              "opds-feed",
+              "react",
+              "reader",
+              "redux",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         },
@@ -110,12 +196,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 An open-source ebook/audiobook/comics Web Reader",
+            "homepage": "https://thorium-web.pages.dev",
             "id": 817656901,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:37:50Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T15:30:03Z",
+            "open_issues": 53,
             "owner": "edrlab",
             "repo": "thorium-web",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "audiobooks",
+              "epub",
+              "readium",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         },
@@ -126,12 +222,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⌨️ A CLI utility with support for a wide range of commands for ebooks, comics and audiobooks",
+            "homepage": null,
             "id": 958680199,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T04:09:40Z",
+            "open_issues": 13,
             "owner": "readium",
             "repo": "cli",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "audiobook",
+              "cli",
+              "epub",
+              "golang",
+              "readium"
+            ]
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         }
@@ -148,12 +257,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhanced eBooks in the browser.",
+            "homepage": "http://futurepress.org",
             "id": 6418762,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-24T04:19:58Z",
+            "open_issues": 517,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6950
+            "stars": 6951,
+            "topics": [
+              "epub"
+            ]
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         },
@@ -164,12 +280,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📖 The power of CSS typesetting, right at your fingertips.",
+            "homepage": "https://vivliostyle.org",
             "id": 33099290,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T07:26:43Z",
+            "open_issues": 124,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
-            "stars": 781
+            "stars": 782,
+            "topics": [
+              "css",
+              "epub",
+              "typesetting",
+              "vivliostyle"
+            ]
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         },
@@ -180,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The X-tra Beautiful comic reading interface (In development)",
+            "homepage": null,
             "id": 141866544,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-12T04:49:19Z",
+            "open_issues": 11,
             "owner": "chocolatkey",
             "repo": "xbreader",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         }
@@ -202,12 +333,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 📖   React Native ebook reader for iOS, Android, & Web via Readium",
+            "homepage": null,
             "id": 468831170,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-24T13:46:37Z",
+            "open_issues": 10,
             "owner": "5-stones",
             "repo": "react-native-readium",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "ebook",
+              "ebook-reader",
+              "ebooks",
+              "epub",
+              "epub-reader",
+              "epub3",
+              "react-native",
+              "readium",
+              "readium-2"
+            ]
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         },
@@ -218,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Dart/Flutter port of some of the Readium 2 components",
+            "homepage": null,
             "id": 404282279,
             "language": "Dart",
+            "license": null,
             "last_commit": "2026-07-25T07:54:33Z",
+            "open_issues": 62,
             "owner": "Mantano",
             "repo": "iridium",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         },
@@ -234,12 +385,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flutter plugin for reading EPUB and WebPub books. Based on the Readium toolkit components",
+            "homepage": null,
             "id": 784184275,
             "language": "Dart",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T22:56:57Z",
+            "open_issues": 15,
             "owner": "Notalib",
             "repo": "flutter_readium",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "epub",
+              "readium-2"
+            ]
           },
           "first_seen": "2026-08-28T06:11:37.869Z"
         }
@@ -248,15 +407,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:11:37.869Z",
+    "last_updated": "2026-08-29T03:45:26.381Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⭐️ Awesome Readium-related resources",
+      "homepage": null,
       "id": 186126317,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-20T15:21:09Z",
+      "open_issues": 1,
       "owner": "readium",
       "repo": "awesome-readium",
-      "stars": 280
+      "stars": 280,
+      "topics": [
+        "awesome-list",
+        "readium"
+      ]
     },
     "original_repository_sha": "d0f2b0a57624ed3ee1b83bf300fd7a45880abe32",
     "enhanced_repository": "enhansome/enhansome-readium",
