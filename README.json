@@ -24,7 +24,7 @@
                 "open_issues": 59,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 547,
+                "stars": 546,
                 "topics": [
                   "audiobook",
                   "audiobook-player",
@@ -172,7 +172,7 @@
             "open_issues": 173,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2838,
+            "stars": 2841,
             "topics": [
               "electron",
               "epub",
@@ -391,7 +391,7 @@
             "language": "Dart",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T22:56:57Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "Notalib",
             "repo": "flutter_readium",
             "stars": 32,
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:46.005Z",
+    "last_updated": "2026-08-30T00:27:53.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",

@@ -21,7 +21,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 ## Toolkits
 
 * [Readium Mobile](https://readium.org/mobile)
-  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 547 | 🐛 59 | 🌐 Swift | 📅 2026-08-28 for iOS, iPadOS and macOS
+  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 546 | 🐛 59 | 🌐 Swift | 📅 2026-08-28 for iOS, iPadOS and macOS
   * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 379 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-25 for Android and Chrome OS
 * [Readium Web](https://readium.org/web)
   * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 148 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-03 primarily used for client-side applications
@@ -29,7 +29,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 ## Open-source applications
 
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,838 | 🐛 173 | 🌐 TypeScript | 📅 2026-08-28 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,841 | 🐛 173 | 🌐 TypeScript | 📅 2026-08-28 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
 * [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 107 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-28 - A Web-Reader for reading EPUB on the Web
 * [Readium CLI](https://github.com/readium/cli) ⭐ 25 | 🐛 13 | 🌐 Go | 📅 2026-08-19 - A multi-command utility for interacting with EPUB files
 
@@ -178,7 +178,7 @@ In addition to Readium projects, a number of other apps or open-source projects 
 
 * [React Native Readium](https://github.com/5-stones/react-native-readium) ⭐ 170 | 🐛 10 | 🌐 HTML | 📅 2026-08-24 - A React Native wrapper for Readium Mobile & Web
 * [Iridium](https://github.com/Mantano/iridium) ⭐ 108 | 🐛 62 | 🌐 Dart | 📅 2026-07-25 - A Flutter port of Readium Mobile
-* [Flutter Readium](https://github.com/Notalib/flutter_readium) ⭐ 32 | 🐛 15 | 🌐 Dart | 📅 2026-08-27 - A Flutter wrapper for Readium Mobile and Web
+* [Flutter Readium](https://github.com/Notalib/flutter_readium) ⭐ 32 | 🐛 16 | 🌐 Dart | 📅 2026-08-27 - A Flutter wrapper for Readium Mobile and Web
 
 ## License
 
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
