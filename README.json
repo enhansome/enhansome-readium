@@ -24,7 +24,7 @@
                 "open_issues": 59,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 546,
+                "stars": 545,
                 "topics": [
                   "audiobook",
                   "audiobook-player",
@@ -60,7 +60,7 @@
                 "open_issues": 62,
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
-                "stars": 379,
+                "stars": 378,
                 "topics": [
                   "android",
                   "audiobook",
@@ -266,7 +266,7 @@
             "open_issues": 517,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6951,
+            "stars": 6952,
             "topics": [
               "epub"
             ]
@@ -391,10 +391,10 @@
             "language": "Dart",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T22:56:57Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "Notalib",
             "repo": "flutter_readium",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "epub",
               "readium-2"
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:27:53.906Z",
+    "last_updated": "2026-08-31T00:40:16.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
