@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T13:44:18Z",
-            "open_issues": 195,
+            "last_commit": "2026-09-04T10:25:48Z",
+            "open_issues": 196,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2841,
+            "stars": 2843,
             "topics": [
               "electron",
               "epub",
@@ -197,7 +197,7 @@
           "repo_info": {
             "archived": false,
             "description": "🌐 An open-source ebook/audiobook/comics Web Reader",
-            "homepage": "https://thorium-web.pages.dev",
+            "homepage": "https://web.thoriumreader.com",
             "id": 817656901,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
@@ -266,7 +266,7 @@
             "open_issues": 517,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6956,
+            "stars": 6957,
             "topics": [
               "epub"
             ]
@@ -285,8 +285,8 @@
             "id": 33099290,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T05:16:37Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-04T01:32:04Z",
+            "open_issues": 126,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 782,
@@ -391,7 +391,7 @@
             "language": "Dart",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-03T12:35:21Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "Notalib",
             "repo": "flutter_readium",
             "stars": 33,
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T00:11:11.715Z",
+    "last_updated": "2026-09-05T00:12:46.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
@@ -419,7 +419,7 @@
       "open_issues": 1,
       "owner": "readium",
       "repo": "awesome-readium",
-      "stars": 280,
+      "stars": 281,
       "topics": [
         "awesome-list",
         "readium"
