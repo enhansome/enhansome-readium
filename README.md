@@ -22,7 +22,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 * [Readium Mobile](https://readium.org/mobile)
   * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 545 | 🐛 59 | 🌐 Swift | 📅 2026-08-28 for iOS, iPadOS and macOS
-  * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 378 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-25 for Android and Chrome OS
+  * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 379 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-25 for Android and Chrome OS
 * [Readium Web](https://readium.org/web)
   * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 148 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-03 primarily used for client-side applications
   * [Go toolkit](https://github.com/readium/go-toolkit) ⭐ 68 | 🐛 14 | 🌐 Go | 📅 2026-09-02 primarily used for server-side applications
@@ -171,12 +171,12 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:
 
 * [Epub.js](https://github.com/futurepress/epub.js/) ⭐ 6,957 | 🐛 517 | 🌐 JavaScript | 📅 2026-03-24 - An ebook viewer written in JS
-* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) ⭐ 782 | 🐛 126 | 🌐 TypeScript | 📅 2026-09-04 - A document and publication viewer written in JS
+* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) ⭐ 782 | 🐛 125 | 🌐 TypeScript | 📅 2026-09-05 - A document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) ⭐ 30 | 🐛 11 | 🌐 TypeScript | 📅 2024-05-12 - A manga viewer written in TypeScript
 
 ## Other toolkits related to Readium
 
-* [React Native Readium](https://github.com/5-stones/react-native-readium) ⭐ 172 | 🐛 10 | 🌐 HTML | 📅 2026-09-03 - A React Native wrapper for Readium Mobile & Web
+* [React Native Readium](https://github.com/5-stones/react-native-readium) ⭐ 172 | 🐛 11 | 🌐 HTML | 📅 2026-09-03 - A React Native wrapper for Readium Mobile & Web
 * [Iridium](https://github.com/Mantano/iridium) ⭐ 108 | 🐛 62 | 🌐 Dart | 📅 2026-07-25 - A Flutter port of Readium Mobile
 * [Flutter Readium](https://github.com/Notalib/flutter_readium) ⭐ 33 | 🐛 15 | 🌐 Dart | 📅 2026-09-03 - A Flutter wrapper for Readium Mobile and Web
 
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
