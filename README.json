@@ -172,7 +172,7 @@
             "open_issues": 196,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2843,
+            "stars": 2846,
             "topics": [
               "electron",
               "epub",
@@ -202,7 +202,7 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-03T16:05:50Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "edrlab",
             "repo": "thorium-web",
             "stars": 108,
@@ -285,11 +285,11 @@
             "id": 33099290,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T14:39:51Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-06T17:05:22Z",
+            "open_issues": 124,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
-            "stars": 782,
+            "stars": 785,
             "topics": [
               "css",
               "epub",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:01:26.995Z",
+    "last_updated": "2026-09-07T00:04:53.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",

@@ -29,8 +29,8 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 ## Open-source applications
 
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,843 | 🐛 196 | 🌐 TypeScript | 📅 2026-09-04 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
-* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 108 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-03 - A Web-Reader for reading EPUB on the Web
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,846 | 🐛 196 | 🌐 TypeScript | 📅 2026-09-04 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 108 | 🐛 53 | 🌐 TypeScript | 📅 2026-09-03 - A Web-Reader for reading EPUB on the Web
 * [Readium CLI](https://github.com/readium/cli) ⭐ 25 | 🐛 15 | 🌐 Go | 📅 2026-09-02 - A multi-command utility for interacting with EPUB files
 
 ## Specifications
@@ -171,7 +171,7 @@ A separate list of LCP adopters is maintained by EDRLab [here](https://www.edrla
 In addition to Readium projects, a number of other apps or open-source projects can support Readium Web Publications:
 
 * [Epub.js](https://github.com/futurepress/epub.js/) ⭐ 6,957 | 🐛 517 | 🌐 JavaScript | 📅 2026-03-24 - An ebook viewer written in JS
-* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) ⭐ 782 | 🐛 125 | 🌐 TypeScript | 📅 2026-09-05 - A document and publication viewer written in JS
+* [Vivliostyle](https://github.com/vivliostyle/vivliostyle.js) ⭐ 785 | 🐛 124 | 🌐 TypeScript | 📅 2026-09-06 - A document and publication viewer written in JS
 * [xbreader](https://github.com/chocolatkey/xbreader) ⭐ 30 | 🐛 11 | 🌐 TypeScript | 📅 2024-05-12 - A manga viewer written in TypeScript
 
 ## Other toolkits related to Readium
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
