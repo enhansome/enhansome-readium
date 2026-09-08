@@ -24,7 +24,7 @@
                 "open_issues": 59,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "audiobook",
                   "audiobook-player",
@@ -57,7 +57,7 @@
                 "language": "Kotlin",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T12:35:59Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
                 "stars": 379,
@@ -99,7 +99,7 @@
                 "id": 220052920,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-03T16:04:30Z",
+                "last_commit": "2026-09-07T14:24:13Z",
                 "open_issues": 61,
                 "owner": "readium",
                 "repo": "ts-toolkit",
@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T10:25:48Z",
-            "open_issues": 196,
+            "last_commit": "2026-09-07T16:12:04Z",
+            "open_issues": 199,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2846,
+            "stars": 2848,
             "topics": [
               "electron",
               "epub",
@@ -201,8 +201,8 @@
             "id": 817656901,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T16:05:50Z",
-            "open_issues": 53,
+            "last_commit": "2026-09-07T13:46:04Z",
+            "open_issues": 54,
             "owner": "edrlab",
             "repo": "thorium-web",
             "stars": 108,
@@ -266,7 +266,7 @@
             "open_issues": 517,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6957,
+            "stars": 6958,
             "topics": [
               "epub"
             ]
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:04:53.334Z",
+    "last_updated": "2026-09-08T00:32:19.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
