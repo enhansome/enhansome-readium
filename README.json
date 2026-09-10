@@ -56,8 +56,8 @@
                 "id": 409576806,
                 "language": "Kotlin",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-25T12:35:59Z",
-                "open_issues": 63,
+                "last_commit": "2026-09-09T16:57:32Z",
+                "open_issues": 64,
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
                 "stars": 378,
@@ -99,8 +99,8 @@
                 "id": 220052920,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-08T17:26:30Z",
-                "open_issues": 61,
+                "last_commit": "2026-09-09T14:09:36Z",
+                "open_issues": 63,
                 "owner": "readium",
                 "repo": "ts-toolkit",
                 "stars": 148,
@@ -132,7 +132,7 @@
                 "id": 70692413,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-02T09:14:18Z",
+                "last_commit": "2026-09-09T06:33:16Z",
                 "open_issues": 14,
                 "owner": "readium",
                 "repo": "go-toolkit",
@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-08T16:25:29Z",
-            "open_issues": 200,
+            "last_commit": "2026-09-09T13:56:11Z",
+            "open_issues": 201,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2852,
+            "stars": 2855,
             "topics": [
               "electron",
               "epub",
@@ -266,7 +266,7 @@
             "open_issues": 517,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6958,
+            "stars": 6959,
             "topics": [
               "epub"
             ]
@@ -289,7 +289,7 @@
             "open_issues": 126,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
-            "stars": 786,
+            "stars": 787,
             "topics": [
               "css",
               "epub",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:22:30.253Z",
+    "last_updated": "2026-09-10T00:20:39.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
@@ -419,7 +419,7 @@
       "open_issues": 1,
       "owner": "readium",
       "repo": "awesome-readium",
-      "stars": 281,
+      "stars": 282,
       "topics": [
         "awesome-list",
         "readium"
