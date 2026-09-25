@@ -20,11 +20,11 @@
                 "id": 423789305,
                 "language": "Swift",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-23T14:20:54Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-24T15:41:53Z",
+                "open_issues": 54,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 554,
+                "stars": 555,
                 "topics": [
                   "audiobook",
                   "audiobook-player",
@@ -99,7 +99,7 @@
                 "id": 220052920,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-23T16:15:39Z",
+                "last_commit": "2026-09-24T10:36:39Z",
                 "open_issues": 65,
                 "owner": "readium",
                 "repo": "ts-toolkit",
@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T11:55:04Z",
-            "open_issues": 198,
+            "last_commit": "2026-09-24T16:12:01Z",
+            "open_issues": 200,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2879,
+            "stars": 2881,
             "topics": [
               "electron",
               "epub",
@@ -227,7 +227,7 @@
             "id": 958680199,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T09:45:52Z",
+            "last_commit": "2026-09-24T07:36:32Z",
             "open_issues": 9,
             "owner": "readium",
             "repo": "cli",
@@ -266,7 +266,7 @@
             "open_issues": 517,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6964,
+            "stars": 6965,
             "topics": [
               "epub"
             ]
@@ -391,7 +391,7 @@
             "language": "Dart",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-22T09:57:48Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "Notalib",
             "repo": "flutter_readium",
             "stars": 35,
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:37:12.831Z",
+    "last_updated": "2026-09-25T00:37:46.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
