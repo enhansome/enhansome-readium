@@ -21,16 +21,16 @@ Readium is an open-source foundation dedicated to the development of software, s
 ## Toolkits
 
 * [Readium Mobile](https://readium.org/mobile)
-  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 555 | 🐛 52 | 🌐 Swift | 📅 2026-09-25 for iOS, iPadOS and macOS
+  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 555 | 🐛 52 | 🌐 Swift | 📅 2026-09-30 for iOS, iPadOS and macOS
   * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 387 | 🐛 61 | 🌐 Kotlin | 📅 2026-09-11 for Android and Chrome OS
 * [Readium Web](https://readium.org/web)
-  * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 152 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-29 primarily used for client-side applications
-  * [Go toolkit](https://github.com/readium/go-toolkit) ⭐ 68 | 🐛 8 | 🌐 Go | 📅 2026-09-29 primarily used for server-side applications
+  * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 152 | 🐛 64 | 🌐 TypeScript | 📅 2026-09-30 primarily used for client-side applications
+  * [Go toolkit](https://github.com/readium/go-toolkit) ⭐ 69 | 🐛 8 | 🌐 Go | 📅 2026-09-29 primarily used for server-side applications
 
 ## Open-source applications
 
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,884 | 🐛 198 | 🌐 TypeScript | 📅 2026-09-29 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
-* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 109 | 🐛 53 | 🌐 TypeScript | 📅 2026-09-29 - A Web-Reader for reading EPUB on the Web
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,885 | 🐛 204 | 🌐 TypeScript | 📅 2026-09-30 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 109 | 🐛 53 | 🌐 TypeScript | 📅 2026-09-30 - A Web-Reader for reading EPUB on the Web
 * [Readium CLI](https://github.com/readium/cli) ⭐ 25 | 🐛 9 | 🌐 Go | 📅 2026-09-26 - A multi-command utility for interacting with EPUB files
 
 ## Specifications
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
