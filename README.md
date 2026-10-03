@@ -21,15 +21,15 @@ Readium is an open-source foundation dedicated to the development of software, s
 ## Toolkits
 
 * [Readium Mobile](https://readium.org/mobile)
-  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 555 | 🐛 52 | 🌐 Swift | 📅 2026-10-01 for iOS, iPadOS and macOS
-  * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 387 | 🐛 61 | 🌐 Kotlin | 📅 2026-09-11 for Android and Chrome OS
+  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 556 | 🐛 52 | 🌐 Swift | 📅 2026-10-02 for iOS, iPadOS and macOS
+  * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 387 | 🐛 63 | 🌐 Kotlin | 📅 2026-09-11 for Android and Chrome OS
 * [Readium Web](https://readium.org/web)
-  * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 152 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-01 primarily used for client-side applications
+  * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 152 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-02 primarily used for client-side applications
   * [Go toolkit](https://github.com/readium/go-toolkit) ⭐ 69 | 🐛 10 | 🌐 Go | 📅 2026-10-01 primarily used for server-side applications
 
 ## Open-source applications
 
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,887 | 🐛 209 | 🌐 TypeScript | 📅 2026-10-01 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,888 | 🐛 209 | 🌐 TypeScript | 📅 2026-10-02 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
 * [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 109 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-30 - A Web-Reader for reading EPUB on the Web
 * [Readium CLI](https://github.com/readium/cli) ⭐ 25 | 🐛 11 | 🌐 Go | 📅 2026-10-01 - A multi-command utility for interacting with EPUB files
 
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
