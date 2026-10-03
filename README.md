@@ -29,7 +29,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 ## Open-source applications
 
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,888 | 🐛 209 | 🌐 TypeScript | 📅 2026-10-02 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,889 | 🐛 209 | 🌐 TypeScript | 📅 2026-10-02 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
 * [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 109 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-30 - A Web-Reader for reading EPUB on the Web
 * [Readium CLI](https://github.com/readium/cli) ⭐ 25 | 🐛 11 | 🌐 Go | 📅 2026-10-01 - A multi-command utility for interacting with EPUB files
 

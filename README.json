@@ -172,7 +172,7 @@
             "open_issues": 209,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2888,
+            "stars": 2889,
             "topics": [
               "electron",
               "epub",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:15:10.957Z",
+    "last_updated": "2026-10-03T05:05:51.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
