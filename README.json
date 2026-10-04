@@ -57,10 +57,10 @@
                 "language": "Kotlin",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-11T21:17:36Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "android",
                   "audiobook",
@@ -99,7 +99,7 @@
                 "id": 220052920,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T16:06:23Z",
+                "last_commit": "2026-10-03T12:00:52Z",
                 "open_issues": 64,
                 "owner": "readium",
                 "repo": "ts-toolkit",
@@ -169,10 +169,10 @@
             "language": "TypeScript",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T12:40:56Z",
-            "open_issues": 209,
+            "open_issues": 210,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2889,
+            "stars": 2890,
             "topics": [
               "electron",
               "epub",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:51.272Z",
+    "last_updated": "2026-10-04T01:43:31.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
