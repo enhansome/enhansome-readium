@@ -103,7 +103,7 @@
                 "open_issues": 64,
                 "owner": "readium",
                 "repo": "ts-toolkit",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "audiobooks",
                   "cbr",
@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T12:40:56Z",
+            "last_commit": "2026-10-04T09:32:47Z",
             "open_issues": 210,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2890,
+            "stars": 2893,
             "topics": [
               "electron",
               "epub",
@@ -205,7 +205,7 @@
             "open_issues": 54,
             "owner": "edrlab",
             "repo": "thorium-web",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "audiobooks",
               "epub",
@@ -285,8 +285,8 @@
             "id": 33099290,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T14:59:00Z",
-            "open_issues": 128,
+            "last_commit": "2026-10-04T16:38:29Z",
+            "open_issues": 130,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 795,
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T01:43:31.214Z",
+    "last_updated": "2026-10-05T01:03:28.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
