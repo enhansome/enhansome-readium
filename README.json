@@ -20,11 +20,11 @@
                 "id": 423789305,
                 "language": "Swift",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T12:56:06Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-09T17:46:25Z",
+                "open_issues": 52,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 560,
+                "stars": 561,
                 "topics": [
                   "audiobook",
                   "audiobook-player",
@@ -99,8 +99,8 @@
                 "id": 220052920,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T16:25:48Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-09T17:04:33Z",
+                "open_issues": 64,
                 "owner": "readium",
                 "repo": "ts-toolkit",
                 "stars": 155,
@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-07T16:12:01Z",
-            "open_issues": 189,
+            "last_commit": "2026-10-09T14:25:47Z",
+            "open_issues": 193,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2897,
+            "stars": 2898,
             "topics": [
               "electron",
               "epub",
@@ -201,8 +201,8 @@
             "id": 817656901,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-07T16:01:10Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-09T10:57:14Z",
+            "open_issues": 54,
             "owner": "edrlab",
             "repo": "thorium-web",
             "stars": 110,
@@ -266,7 +266,7 @@
             "open_issues": 517,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6964,
+            "stars": 6960,
             "topics": [
               "epub"
             ]
@@ -285,8 +285,8 @@
             "id": 33099290,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T15:43:00Z",
-            "open_issues": 132,
+            "last_commit": "2026-10-09T14:45:44Z",
+            "open_issues": 126,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 796,
@@ -394,7 +394,7 @@
             "open_issues": 18,
             "owner": "Notalib",
             "repo": "flutter_readium",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "epub",
               "readium-2"
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:19:23.901Z",
+    "last_updated": "2026-10-10T01:49:21.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
