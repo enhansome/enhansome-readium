@@ -136,7 +136,7 @@
                 "open_issues": 10,
                 "owner": "readium",
                 "repo": "go-toolkit",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "accessibility",
                   "cbz",
@@ -266,7 +266,7 @@
             "open_issues": 517,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6960,
+            "stars": 6961,
             "topics": [
               "epub"
             ]
@@ -285,7 +285,7 @@
             "id": 33099290,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T14:45:44Z",
+            "last_commit": "2026-10-10T13:39:20Z",
             "open_issues": 126,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
@@ -394,7 +394,7 @@
             "open_issues": 18,
             "owner": "Notalib",
             "repo": "flutter_readium",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "epub",
               "readium-2"
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:49:21.817Z",
+    "last_updated": "2026-10-11T01:04:52.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
