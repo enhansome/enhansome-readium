@@ -20,7 +20,7 @@
                 "id": 423789305,
                 "language": "Swift",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-09T17:46:25Z",
+                "last_commit": "2026-10-11T21:01:23Z",
                 "open_issues": 52,
                 "owner": "readium",
                 "repo": "swift-toolkit",
@@ -285,7 +285,7 @@
             "id": 33099290,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T13:39:20Z",
+            "last_commit": "2026-10-11T15:45:45Z",
             "open_issues": 126,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:04:52.440Z",
+    "last_updated": "2026-10-12T01:26:08.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
