@@ -57,7 +57,7 @@
                 "language": "Kotlin",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-16T15:02:30Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "readium",
                 "repo": "kotlin-toolkit",
                 "stars": 393,
@@ -172,7 +172,7 @@
             "open_issues": 183,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2904,
+            "stars": 2905,
             "topics": [
               "electron",
               "epub",
@@ -286,7 +286,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-16T07:27:03Z",
-            "open_issues": 131,
+            "open_issues": 132,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
             "stars": 798,
@@ -390,7 +390,7 @@
             "id": 784184275,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T22:41:47Z",
+            "last_commit": "2026-10-17T11:46:58Z",
             "open_issues": 16,
             "owner": "Notalib",
             "repo": "flutter_readium",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:36:54.824Z",
+    "last_updated": "2026-10-18T00:06:39.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
