@@ -24,7 +24,7 @@
                 "open_issues": 52,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 569,
+                "stars": 570,
                 "topics": [
                   "audiobook",
                   "audiobook-player",
@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T14:06:40Z",
-            "open_issues": 194,
+            "last_commit": "2026-10-25T23:50:04Z",
+            "open_issues": 192,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2913,
+            "stars": 2912,
             "topics": [
               "electron",
               "epub",
@@ -266,7 +266,7 @@
             "open_issues": 516,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6968,
+            "stars": 6969,
             "topics": [
               "epub"
             ]
@@ -285,11 +285,11 @@
             "id": 33099290,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T15:59:55Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-25T14:49:35Z",
+            "open_issues": 128,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
-            "stars": 800,
+            "stars": 801,
             "topics": [
               "css",
               "epub",
@@ -391,7 +391,7 @@
             "language": "Dart",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-23T12:17:39Z",
-            "open_issues": 22,
+            "open_issues": 26,
             "owner": "Notalib",
             "repo": "flutter_readium",
             "stars": 37,
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:23:45.066Z",
+    "last_updated": "2026-10-26T00:29:50.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
