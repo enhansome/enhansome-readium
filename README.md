@@ -21,7 +21,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 ## Toolkits
 
 * [Readium Mobile](https://readium.org/mobile)
-  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 571 | 🐛 52 | 🌐 Swift | 📅 2026-10-28 for iOS, iPadOS and macOS
+  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 573 | 🐛 53 | 🌐 Swift | 📅 2026-10-28 for iOS, iPadOS and macOS
   * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 395 | 🐛 67 | 🌐 Kotlin | 📅 2026-10-16 for Android and Chrome OS
 * [Readium Web](https://readium.org/web)
   * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 159 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-23 primarily used for client-side applications
@@ -29,8 +29,8 @@ Readium is an open-source foundation dedicated to the development of software, s
 
 ## Open-source applications
 
-* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,923 | 🐛 175 | 🌐 TypeScript | 📅 2026-10-30 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
-* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 112 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-23 - A Web-Reader for reading EPUB on the Web
+* [Thorium Desktop](https://github.com/edrlab/thorium-reader) ⭐ 2,925 | 🐛 177 | 🌐 TypeScript | 📅 2026-10-30 - A desktop app for EPUB, PDF and audiobooks on Windows, macOS and Linux
+* [Thorium Web](https://github.com/edrlab/thorium-web) ⭐ 113 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-23 - A Web-Reader for reading EPUB on the Web
 * [Readium CLI](https://github.com/readium/cli) ⭐ 25 | 🐛 11 | 🌐 Go | 📅 2026-10-01 - A multi-command utility for interacting with EPUB files
 
 ## Specifications
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
