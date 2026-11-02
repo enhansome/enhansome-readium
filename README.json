@@ -24,7 +24,7 @@
                 "open_issues": 53,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 573,
+                "stars": 574,
                 "topics": [
                   "audiobook",
                   "audiobook-player",
@@ -100,7 +100,7 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T12:37:31Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "readium",
                 "repo": "ts-toolkit",
                 "stars": 159,
@@ -132,7 +132,7 @@
                 "id": 70692413,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-01T10:10:52Z",
+                "last_commit": "2026-11-01T10:07:44Z",
                 "open_issues": 10,
                 "owner": "readium",
                 "repo": "go-toolkit",
@@ -227,7 +227,7 @@
             "id": 958680199,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T09:27:55Z",
+            "last_commit": "2026-11-01T09:20:56Z",
             "open_issues": 11,
             "owner": "readium",
             "repo": "cli",
@@ -266,7 +266,7 @@
             "open_issues": 516,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6966,
+            "stars": 6967,
             "topics": [
               "epub"
             ]
@@ -285,7 +285,7 @@
             "id": 33099290,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T09:13:36Z",
+            "last_commit": "2026-11-01T23:26:00Z",
             "open_issues": 124,
             "owner": "vivliostyle",
             "repo": "vivliostyle.js",
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:18:16.915Z",
+    "last_updated": "2026-11-02T01:36:49.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
