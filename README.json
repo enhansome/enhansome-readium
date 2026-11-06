@@ -20,7 +20,7 @@
                 "id": 423789305,
                 "language": "Swift",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-04T13:13:12Z",
+                "last_commit": "2026-11-05T17:41:33Z",
                 "open_issues": 53,
                 "owner": "readium",
                 "repo": "swift-toolkit",
@@ -99,11 +99,11 @@
                 "id": 220052920,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-04T17:44:31Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-05T16:20:15Z",
+                "open_issues": 72,
                 "owner": "readium",
                 "repo": "ts-toolkit",
-                "stars": 159,
+                "stars": 160,
                 "topics": [
                   "audiobooks",
                   "cbr",
@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T16:23:05Z",
+            "last_commit": "2026-11-05T14:19:24Z",
             "open_issues": 168,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2930,
+            "stars": 2932,
             "topics": [
               "electron",
               "epub",
@@ -266,7 +266,7 @@
             "open_issues": 516,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6967,
+            "stars": 6968,
             "topics": [
               "epub"
             ]
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:36:41.885Z",
+    "last_updated": "2026-11-06T02:36:44.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
@@ -419,7 +419,7 @@
       "open_issues": 2,
       "owner": "readium",
       "repo": "awesome-readium",
-      "stars": 285,
+      "stars": 283,
       "topics": [
         "awesome-list",
         "readium"
