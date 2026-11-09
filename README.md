@@ -21,7 +21,7 @@ Readium is an open-source foundation dedicated to the development of software, s
 ## Toolkits
 
 * [Readium Mobile](https://readium.org/mobile)
-  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 577 | 🐛 53 | 🌐 Swift | 📅 2026-11-05 for iOS, iPadOS and macOS
+  * [Swift toolkit](https://github.com/readium/swift-toolkit) ⭐ 577 | 🐛 54 | 🌐 Swift | 📅 2026-11-05 for iOS, iPadOS and macOS
   * [Kotlin toolkit](https://github.com/readium/kotlin-toolkit) ⭐ 396 | 🐛 68 | 🌐 Kotlin | 📅 2026-10-16 for Android and Chrome OS
 * [Readium Web](https://readium.org/web)
   * [TS toolkit](https://github.com/readium/ts-toolkit) ⭐ 160 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-06 primarily used for client-side applications
@@ -188,4 +188,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

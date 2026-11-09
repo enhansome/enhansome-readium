@@ -21,7 +21,7 @@
                 "language": "Swift",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-05T17:41:33Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "readium",
                 "repo": "swift-toolkit",
                 "stars": 577,
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:35:23.368Z",
+    "last_updated": "2026-11-09T01:47:36.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
