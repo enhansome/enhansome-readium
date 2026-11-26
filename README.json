@@ -20,11 +20,11 @@
                 "id": 423789305,
                 "language": "Swift",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-24T17:38:19Z",
+                "last_commit": "2026-11-25T20:22:12Z",
                 "open_issues": 57,
                 "owner": "readium",
                 "repo": "swift-toolkit",
-                "stars": 585,
+                "stars": 586,
                 "topics": [
                   "audiobook",
                   "audiobook-player",
@@ -99,8 +99,8 @@
                 "id": 220052920,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-24T18:01:43Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-25T14:35:09Z",
+                "open_issues": 66,
                 "owner": "readium",
                 "repo": "ts-toolkit",
                 "stars": 163,
@@ -132,7 +132,7 @@
                 "id": 70692413,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-17T08:09:55Z",
+                "last_commit": "2026-11-25T08:50:35Z",
                 "open_issues": 8,
                 "owner": "readium",
                 "repo": "go-toolkit",
@@ -168,11 +168,11 @@
             "id": 85566485,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-24T18:08:41Z",
-            "open_issues": 169,
+            "last_commit": "2026-11-26T00:39:23Z",
+            "open_issues": 170,
             "owner": "edrlab",
             "repo": "thorium-reader",
-            "stars": 2961,
+            "stars": 2962,
             "topics": [
               "electron",
               "epub",
@@ -201,7 +201,7 @@
             "id": 817656901,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-24T18:55:08Z",
+            "last_commit": "2026-11-25T15:09:32Z",
             "open_issues": 55,
             "owner": "edrlab",
             "repo": "thorium-web",
@@ -266,7 +266,7 @@
             "open_issues": 519,
             "owner": "futurepress",
             "repo": "epub.js",
-            "stars": 6967,
+            "stars": 6968,
             "topics": [
               "epub"
             ]
@@ -407,7 +407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:56:51.700Z",
+    "last_updated": "2026-11-26T04:13:36.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Awesome Readium-related resources",
